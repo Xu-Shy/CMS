@@ -1,5 +1,5 @@
 <template>
-<div class="login-panel">
+  <div class="login-panel">
     <h1 class="title">后台管理系统</h1>
     <el-tabs type="border-card" stretch>
       <el-tab-pane>
